@@ -5,8 +5,9 @@ Name: Maks Perepelytsia
 Major: Computer Programming and Analysis
 
 ## Skills
-- Programming: C++, JavaScript
+- Programming: Python, Java, C++, JavaScript
 - Git: Advanced
+- Web Development: HTML, CSS
 - Database: SQL
 
 ## Projects
